@@ -8,3 +8,4 @@ function Message({ text }) {
   return <p>{text}</p>;
 }
 export { Greeting, Message };
+
